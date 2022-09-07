@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# Dev's Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A blog where you can post about your web development learning.
 
-## Available Scripts
+### This project was made with:
+
+- React
+- Firebase
+
+
 
 In the project directory, you can run:
 
